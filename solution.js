@@ -13,3 +13,14 @@ let job = "developer";
 let age = 43;
 
 console.log(firstName, lastName, city, job, age);
+
+console.log(
+    firstName,
+    lastName,
+    "is a",
+    age,
+    "year old",
+    job,
+    "who lives in",
+    city
+);
