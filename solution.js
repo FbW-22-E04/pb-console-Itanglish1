@@ -7,3 +7,9 @@ console.log(exercise);
 let firstName = "Chris";
 let lastName = "H";
 console.log(firstName, lastName);
+
+let city = "Munich";
+let job = "developer";
+let age = 43;
+
+console.log(firstName, lastName, city, job, age);
